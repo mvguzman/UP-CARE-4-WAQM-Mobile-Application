@@ -1,16 +1,13 @@
-# mob_app
+# UP CARE4 WAQM Mobile Application
 
-A new Flutter project.
+A flutter-based mobile application for android devices which displays the user's personal exposure to PM2.5 as well as their corresponding physiological measurements, specifically heart rate (BPM) and oxygen saturation (%, SPO2)
 
-## Getting Started
+## Program Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. BLE Multi-Connectivity
+2. Displays pollutant levels
+3. Displays Heart rate and Oxygen level saturation
+4. Stores the user's corresponding geolocation data based from the phone's GPS measurements
+5. Can update and store data in real-time
+6. Capable of functioning in the background
+7. Database: UP CARE Platform
