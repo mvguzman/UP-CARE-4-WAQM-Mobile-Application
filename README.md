@@ -11,3 +11,12 @@ A flutter-based mobile application for android devices which displays the user's
 5. Can update and store data in real-time
 6. Capable of functioning in the background
 7. Database: UP CARE Platform
+
+## Packages
+  - flutter_blue_plus
+  - cupertino_icons
+  - permission_handler
+  - provider
+  - mqtt_client
+  - location
+  - fl_chart
